@@ -1,2 +1,1 @@
-
-Feel free to add some documentation or simply add a link to the online manual.
+TYPO3 plugin, animated carousel or slider based on jQuery.carouFredSel.

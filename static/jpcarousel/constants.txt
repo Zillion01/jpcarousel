@@ -39,7 +39,7 @@ plugin.tx_jpcarousel_pi1 {
 
   # cat=JPCAROUSEL/cscript/h; type=boolean; label= LLL:EXT:jpcarousel/locallang.xml:circular
   circular = 1
-  
+
   # cat=JPCAROUSEL/cscript/h; type=boolean; label= LLL:EXT:jpcarousel/locallang.xml:infinite
   infinite = 1
 
@@ -106,7 +106,7 @@ plugin.tx_jpcarousel_pi1 {
 	pathToJquery = EXT:jpcarousel/res/scripts/jquery-1.8.2.min.js
 
   #cat=JPCAROUSEL/file/l; type=file[js]; label= LLL:EXT:jpcarousel/locallang.xml:pathToJPcarouselJS
-	pathToJPcarouselJS = EXT:jpcarousel/res/scripts/jquery.carouFredSel-5.3.0-packed.js
+	pathToJPcarouselJS = EXT:jpcarousel/res/scripts/jquery.carouFredSel-6.2.0-packed.js
 
   #cat=JPCAROUSEL/file/o; type=file[css]; label= LLL:EXT:jpcarousel/locallang.xml:pathToJPcarouselCSS
 	pathToJPcarouselCSS = EXT:jpcarousel/res/css/jpcarousel.css

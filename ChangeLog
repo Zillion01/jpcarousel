@@ -1,3 +1,8 @@
+2.1.0
+- TYPO3 6.0 compatibility
+- Fixed forge bugs #43413, #43758, #43771, #44720
+- Upgraded to Caroufredsel 6.2.0, allows for more advanced configuration. 
+
 2.0.3
 - Fixed a bug. Sometimes clear.gif at the buttons was not loaded. This is changed in the class.
 - Update jQuery to 1.8.2. 
